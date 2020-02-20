@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="5dp"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:id="@+id/ll_list_item"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/list_selector"
+        android:orientation="vertical"
+        android:padding="8dp">
+
+        <TextView
+            android:id="@+id/tv_title"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp"
+            android:singleLine="true"
+            android:text="Title"
+            android:textColor="@color/black"
+            android:textSize="18dp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/tv_saved_date"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="end"
+            android:layout_marginTop="5dp"
+            android:layout_marginBottom="5dp"
+            android:text="12/02/2018 Monday"
+            android:textColor="@color/faintBlack"
+            android:textSize="15dp" />
+
+        <TextView
+            android:id="@+id/tv_note"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:layout_marginBottom="5dp"
+            android:text="Lorem ipsum dolor sit amet, volutpat nullam nec, ipsum bibendum semper lectus cum porta non, libero habitant, fringilla imperdiet mollis molestie tellus ultricies est. Diam suspendisse vel adipiscing, nec quam, nullam felis feugiat erat. In sed, integer magna pulvin"
+            android:textColor="@color/faintBlack"
+            android:textSize="15dp" />
+    </LinearLayout>
+</LinearLayout>

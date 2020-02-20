@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:background="@color/colorPrimary">
+    <item
+        android:id="@+id/action_addnote"
+        android:icon="@drawable/ic_add_to_photos_black_24dp"
+        android:orderInCategory="100"
+        android:title="addnote"
+        app:showAsAction="never|ifRoom" />
+    <item
+        android:id="@+id/action_about"
+        android:icon="@drawable/ic_help"
+        android:title="about"
+        app:showAsAction="ifRoom" />
+</menu>
