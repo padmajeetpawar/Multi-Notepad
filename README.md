@@ -21,7 +21,10 @@ A Simple multi notes android application
 
 # App Overview
 
-![alt text-1](screenshots/screenshot1.png  " ")  ![alt text-2](screenshots/screenshot2.png  " ")
+<p float="left">
+  <img src="/screenshot1.png" width="100" />
+  <img src="/screenshot2" width="100" />
+</p>
 
 
 
