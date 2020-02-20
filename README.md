@@ -22,8 +22,8 @@ A Simple multi notes android application
 # App Overview
 
 <p float="left">
-  <img src="/screenshots/screenshot1.png" height= "500" width="500" />
-  <img src="/screenshots/screenshot2.png" height= "500" width="500" />
+  <img src="/screenshots/screenshot1.png" height= "700" width="300" />
+  <img src="/screenshots/screenshot2.png" height= "700" width="300" />
 </p>
 
 
