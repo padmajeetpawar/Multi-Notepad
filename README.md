@@ -15,6 +15,14 @@ A Simple multi notes android application
 
 - Work with both Landscape and Portrait mode
 
--Prompts save button if you press back button while writing notes
+- Prompts save button if you press back button while writing notes
 
 - Sort notes by date
+
+# App Overview
+
+![alt text](screenshots/screenshot1.png  " ")     ![alt text](screenshots/screenshot2.png  " ")
+
+
+
+
