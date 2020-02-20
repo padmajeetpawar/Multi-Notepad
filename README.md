@@ -21,7 +21,7 @@ A Simple multi notes android application
 
 # App Overview
 
-![alt text](screenshots/screenshot1.png  " ")     ![alt text](screenshots/screenshot2.png  " ")
+![alt text-1](screenshots/screenshot1.png  " ")  ![alt text-2](screenshots/screenshot2.png  " ")
 
 
 
